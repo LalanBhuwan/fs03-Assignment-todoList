@@ -1,0 +1,21 @@
+.input-container{
+   
+    width: 50vw;
+    margin: 25px auto;
+    text-align: center;
+}
+input, button{
+    padding: 5px 8px ;
+    border-radius: 5px;
+    border: solid green;
+}
+button{
+    cursor: pointer;
+}
+
+button:hover{
+    color: white;
+    background-color: green;
+    border: none;
+    padding: 7px 10px;
+}
